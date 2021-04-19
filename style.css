@@ -1,4 +1,22 @@
-body{
+html{
     background-color: rgba(255, 7, 7, 0.623);
+    font-family: 'Segoe UI';
+}
+body{
+
     text-align: center;
+}
+img{
+    width: 500px;
+    height: 450px;
+}
+ol{
+    font-size: large;
+    font-weight: bolder;
+}
+a:link{
+    color: aliceblue;
+}
+a:visited{
+    color:rgb(165, 161, 161)
 }
