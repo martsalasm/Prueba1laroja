@@ -1,1 +1,1 @@
-Página sobre los goleadores históricos del equipo de fútbol chileno, "La roja"
+Página sobre el equipo de futbol chileno "La roja"
